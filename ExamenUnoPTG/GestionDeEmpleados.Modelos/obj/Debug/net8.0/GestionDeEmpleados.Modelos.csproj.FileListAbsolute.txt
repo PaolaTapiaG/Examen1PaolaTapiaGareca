@@ -1,0 +1,11 @@
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.Modelos\bin\Debug\net8.0\GestionDeEmpleados.Modelos.deps.json
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.Modelos\bin\Debug\net8.0\GestionDeEmpleados.Modelos.dll
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.Modelos\bin\Debug\net8.0\GestionDeEmpleados.Modelos.pdb
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.Modelos\obj\Debug\net8.0\GestionDeEmpleados.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.Modelos\obj\Debug\net8.0\GestionDeEmpleados.Modelos.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.Modelos\obj\Debug\net8.0\GestionDeEmpleados.Modelos.AssemblyInfo.cs
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.Modelos\obj\Debug\net8.0\GestionDeEmpleados.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.Modelos\obj\Debug\net8.0\GestionDeEmpleados.Modelos.dll
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.Modelos\obj\Debug\net8.0\refint\GestionDeEmpleados.Modelos.dll
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.Modelos\obj\Debug\net8.0\GestionDeEmpleados.Modelos.pdb
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.Modelos\obj\Debug\net8.0\ref\GestionDeEmpleados.Modelos.dll

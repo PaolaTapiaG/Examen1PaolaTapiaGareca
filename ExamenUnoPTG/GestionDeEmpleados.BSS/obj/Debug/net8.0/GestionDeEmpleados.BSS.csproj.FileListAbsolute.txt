@@ -1,0 +1,17 @@
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.BSS\bin\Debug\net8.0\GestionDeEmpleados.BSS.deps.json
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.BSS\bin\Debug\net8.0\GestionDeEmpleados.BSS.dll
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.BSS\bin\Debug\net8.0\GestionDeEmpleados.BSS.pdb
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.BSS\bin\Debug\net8.0\GestionDeEmpleados.DAL.dll
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.BSS\bin\Debug\net8.0\GestionDeEmpleados.Modelos.dll
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.BSS\bin\Debug\net8.0\GestionDeEmpleados.DAL.pdb
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.BSS\bin\Debug\net8.0\GestionDeEmpleados.Modelos.pdb
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.BSS\obj\Debug\net8.0\GestionDeEmpleados.BSS.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.BSS\obj\Debug\net8.0\GestionDeEmpleados.BSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.BSS\obj\Debug\net8.0\GestionDeEmpleados.BSS.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.BSS\obj\Debug\net8.0\GestionDeEmpleados.BSS.AssemblyInfo.cs
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.BSS\obj\Debug\net8.0\GestionDeEmpleados.BSS.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.BSS\obj\Debug\net8.0\GestionD.F9FF8229.Up2Date
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.BSS\obj\Debug\net8.0\GestionDeEmpleados.BSS.dll
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.BSS\obj\Debug\net8.0\refint\GestionDeEmpleados.BSS.dll
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.BSS\obj\Debug\net8.0\GestionDeEmpleados.BSS.pdb
+C:\Users\andre\Downloads\Examen1CristhianRomeroVega-main\Examen1CristhianRomeroVega-main\GestionDeEmpleados\GestionDeEmpleados.BSS\obj\Debug\net8.0\ref\GestionDeEmpleados.BSS.dll
